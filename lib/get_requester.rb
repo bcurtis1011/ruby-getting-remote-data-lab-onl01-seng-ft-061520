@@ -6,7 +6,7 @@ class GetRequester
   
   #take URL on initialize
   
-  # URL = ""
+
   
   def initialize(url)
     @URL = url
